@@ -44,6 +44,7 @@ Currently, I’m focused on strengthening my fundamentals, building meaningful p
 📫 Let’s Connect
 
 🔗 LinkedIn : https://www.linkedin.com/in/suhani-goel-2b1a12278/
+
 📧 Email: suhanigoel2006@gmail.com
 
 ✨ Still learning. Still building. Still growing. 🌱
