@@ -19,33 +19,27 @@ Currently, I’m focused on strengthening my fundamentals, building meaningful p
 🧰 Skills & Tools
 🧑‍💻 Programming Languages
 
-Java
+- Java
 
-Python
+- Python
 
-C / C++
+- C / C++
 
-JavaScript
+- JavaScript
 
 🌐 Web Development
 
-HTML
+- HTML, CSS, JavaScript
 
-CSS
+- Backend: Node.js, Express.js
 
-JavaScript
-
-Node.js
-
-Express.js
-
-EJS
+- Templating: EJS
 
 🛠️ Tools & Platforms
 
-Git & GitHub
+- Git & GitHub
 
-VS Code
+- VS Code
 
 📫 Let’s Connect
 
