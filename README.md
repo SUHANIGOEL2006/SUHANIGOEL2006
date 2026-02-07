@@ -1,16 +1,56 @@
-## Hi there 👋
+👋 Hi, I’m Suhani Goel 🌱
 
-<!--
-**SUHANIGOEL2006/SUHANIGOEL2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student who’s curious about how things work under the hood 🔍 and enjoys turning ideas into real, working projects.
 
-Here are some ideas to get you started:
+Currently, I’m focused on strengthening my fundamentals, building meaningful projects, and improving my coding skills step by step 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌿 What I’m Learning & Working On
+
+💻 Building projects using HTML, CSS & JavaScript
+
+📚 Practicing Data Structures & Algorithms (Java)
+
+🤖 Learning and developing AI/ML-based projects
+
+🧠 Improving problem-solving & debugging skills
+
+🔧 Learning Git & GitHub through real hands-on work
+
+🧰 Skills & Tools
+🧑‍💻 Programming Languages
+
+Java
+
+Python
+
+C / C++
+
+JavaScript
+
+🌐 Web Development
+
+HTML
+
+CSS
+
+JavaScript
+
+Node.js
+
+Express.js
+
+EJS
+
+🛠️ Tools & Platforms
+
+Git & GitHub
+
+VS Code
+
+📫 Let’s Connect
+
+🔗 LinkedIn : https://www.linkedin.com/in/suhani-goel-2b1a12278/
+📧 Email: suhanigoel2006@gmail.com
+
+✨ Still learning. Still building. Still growing. 🌱
+Thanks for visiting my GitHub 💙
