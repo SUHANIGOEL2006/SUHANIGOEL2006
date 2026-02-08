@@ -6,7 +6,7 @@ Currently, I’m focused on strengthening my fundamentals, building meaningful p
 
 🌿 What I’m Learning & Working On
 
-- 💻 Building projects using HTML, CSS & JavaScript
+- 💻 Building Full Stack Projects using Node.js
 
 - 📚 Practicing Data Structures & Algorithms (Java)
 
@@ -17,6 +17,7 @@ Currently, I’m focused on strengthening my fundamentals, building meaningful p
 - 🔧 Learning Git & GitHub through real hands-on work
 
 🧰 Skills & Tools
+
 🧑‍💻 Programming Languages
 
 - Java
