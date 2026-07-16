@@ -1,63 +1,77 @@
-👋 Hi, I’m Suhani Goel 🌱
+# 👋 Hi, I’m Suhani Goel 🌱
 
 I’m a Computer Science student who’s curious about how things work under the hood 🔍 and enjoys turning ideas into real, working projects.
 
 Currently, I’m focused on strengthening my fundamentals, building meaningful projects, and improving my coding skills step by step 🚀
 
-🌿 What I’m Learning & Working On
 
-- 💻 Building Full Stack Projects using Node.js
+## 🌿 What I’m Learning & Working On
 
-- 📚 Practicing Data Structures & Algorithms (Java)
+💻 Building Full Stack Projects
 
-- 🤖 Learning and developing AI/ML-based projects
+📚 Practicing Data Structures & Algorithms (Java)
 
-- 🧠 Improving problem-solving & debugging skills
+🤖 Learning and developing AI/ML-based projects
 
-- 🔧 Learning Git & GitHub through real hands-on work
+🧠 Improving problem-solving and debugging skills
 
-🧰 Skills & Tools
+🔧 Learning Git & GitHub through hands-on projects
 
-🧑‍💻 Programming Languages
+
+## 🧰 Skills & Tools
+
+
+### 🧑‍💻 Programming Languages
 
 - Java
-
 - Python
-
-- C / C++
-
+- C++
 - JavaScript
 
-🌐 Web Development
 
-- Frontend: HTML, CSS, JavaScript, React.js
+### 🌐 Web Development
 
-- Backend: Node.js, Express.js, FastAPI
-  
-- Database: MongoDB
+**Frontend:**
+- HTML
+- CSS
+- JavaScript
+- React.js
 
-- Templating: EJS
+**Backend:**
+- Node.js
+- Express.js
+- FastAPI
 
-🤖 AI / ML
+**Database:**
+- MongoDB
+
+**Templating:**
+- EJS
+
+
+### 🤖 AI / ML
 
 - Machine Learning Fundamentals
 - Natural Language Processing (NLP)
 - Sentence Transformers
 - Generative AI Concepts
-  
-🛠️ Tools & Platforms
+
+
+### 🛠️ Tools & Platforms
 
 - Git & GitHub
-
 - VS Code
+- REST APIs
 
-- RestAPIs
-  
-📫 Let’s Connect
 
-🔗 LinkedIn : https://www.linkedin.com/in/suhani-goel-2b1a12278/
+## 📫 Let’s Connect
 
-📧 Email: suhanigoel2006@gmail.com
+🔗 LinkedIn:  
+https://www.linkedin.com/in/suhani-goel-2b1a12278/
+
+📧 Email:  
+suhanigoel2006@gmail.com
+
 
 ✨ Still learning. Still building. Still growing. 🌱
 
