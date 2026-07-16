@@ -30,18 +30,29 @@ Currently, I’m focused on strengthening my fundamentals, building meaningful p
 
 🌐 Web Development
 
-- HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript, React.js
 
-- Backend: Node.js, Express.js
+- Backend: Node.js, Express.js, FastAPI
+  
+- Database: MongoDB
 
 - Templating: EJS
 
+🤖 AI / ML
+
+- Machine Learning Fundamentals
+- Natural Language Processing (NLP)
+- Sentence Transformers
+- Generative AI Concepts
+  
 🛠️ Tools & Platforms
 
 - Git & GitHub
 
 - VS Code
 
+- RestAPIs
+  
 📫 Let’s Connect
 
 🔗 LinkedIn : https://www.linkedin.com/in/suhani-goel-2b1a12278/
